@@ -1,5 +1,5 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="100" height="100" viewBox="0 0 100 100">
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32">
 <style>:root {--ctp-rosewater: #f5e0dc;--ctp-flamingo: #f2cdcd;--ctp-pink: #f5c2e7;--ctp-mauve: #cba6f7;--ctp-red: #f38ba8;--ctp-maroon: #eba0ac;--ctp-peach: #fab387;--ctp-yellow: #f9e2af;--ctp-green: #a6e3a1;--ctp-teal: #94e2d5;--ctp-sky: #89dceb;--ctp-sapphire: #74c7ec;--ctp-blue: #89b4fa;--ctp-lavender: #b4befe;--ctp-text: #cdd6f4;--ctp-overlay1: #7f849c;}</style>
-    <path fill="none" stroke="var(--ctp-mauve)" stroke-width="0.95" d="M12 3c7.2 0 9 1.8 9 9s-1.8 9-9 9-9-1.8-9-9 1.8-9 9-9Z" transform="matrix(5.26316 0 0 5.26316 -13.158 -13.158)"/>
-    <path fill="none" stroke="var(--ctp-mauve)" stroke-width="0.95" d="M8.863 16.922C10 16.5 10.5 16 12 16s2 .5 3.138.922c.713.264 1.516-.102 1.778-.772.126-.32.11-.673-.044-.983l-3.708-7.474c-.297-.598-1.058-.859-1.7-.583a1.24 1.24 0 0 0-.627.583l-3.709 7.474c-.321.648-.017 1.415.679 1.714.332.143.715.167 1.056.04z" transform="matrix(5.26316 0 0 5.26316 -13.158 -13.158)"/>
+    <path fill="none" stroke="var(--ctp-mauve)" stroke-width="2" d="M16 .92c12 0 15 3 15 15s-3 15-15 15-15-3-15-15 3-15 15-15Z"/>
+    <path fill="none" stroke="var(--ctp-mauve)" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M10.772 24.124c1.895-.703 2.728-1.537 5.228-1.537 2.5 0 3.333.834 5.23 1.537 1.188.44 2.527-.17 2.963-1.287a2.008 2.008 0 0 0-.073-1.638L17.94 8.742c-.495-.996-1.763-1.431-2.833-.971a2.067 2.067 0 0 0-1.045.971L7.88 21.2c-.535 1.08-.028 2.358 1.132 2.857.553.238 1.191.278 1.76.066z"/>
 </svg>

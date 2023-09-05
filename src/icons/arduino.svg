@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="100.0px"
-   height="100.0px"
-   viewBox="0 0 100.0 100.0"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="arduino.svg"
@@ -39,14 +39,16 @@
      showguides="false">
     <inkscape:grid
        type="xygrid"
-       id="grid32609" />
+       id="grid32609"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <path
      fill="none"
      stroke="currentColor"
      stroke-linecap="round"
      stroke-linejoin="round"
-     d="M 54.54762,41.395329 A 22.333095,22.333095 0 1 1 59.429172,65.80309 C 50.251855,56.039976 49.05588,42.835371 40.586383,34.268251 a 22.308688,22.308688 0 1 0 0,31.534839 22.528357,22.528357 0 0 0 4.881552,-7.078276 M 30.457167,50.035671 H 18.546184 m 62.483848,0 H 69.119045 m 5.955503,5.931083 V 44.080167"
+     d="m 17.427349,13.291341 a 7.0326846,7.0326846 0 1 1 1.537199,7.685996 c -2.889933,-3.074401 -3.266546,-7.232527 -5.933587,-9.93031 a 7.0249989,7.0249989 0 1 0 0,9.93031 7.0941723,7.0941723 0 0 0 1.537199,-2.228946 M 9.8412719,16.012182 H 6.0905074 m 19.6761456,0 h -3.750766 m 1.875386,1.867696 v -3.743082"
      id="path32820"
-     style="stroke-width:4.994;stroke-dasharray:none;stroke:#00989d;stroke-opacity:1" />
+     style="stroke:#00989d;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
 </svg>

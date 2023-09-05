@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="100.0px"
-   height="100.0px"
-   viewBox="0 0 100.0 100.0"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="assembly.svg"
@@ -39,28 +39,22 @@
      showguides="false">
     <inkscape:grid
        type="xygrid"
-       id="grid32609" />
+       id="grid32609"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
-  <g
-     fill="none"
-     stroke="currentColor"
-     stroke-width="4"
-     id="g6"
-     transform="matrix(2.6315789,0,0,2.6315789,-13.157894,-13.157894)"
-     style="stroke-width:1.9;stroke-dasharray:none;stroke:#808080;stroke-opacity:1">
-    <rect
-       width="24"
-       height="36"
-       x="12"
-       y="6"
-       rx="2"
-       id="rect2"
-       style="stroke-width:1.9;stroke-dasharray:none;stroke:#808080;stroke-opacity:1" />
-    <path
-       stroke-linecap="round"
-       stroke-linejoin="round"
-       d="M 12,12 H 6 m 6,8 H 6 m 6,8 H 6 m 6,8 H 6 M 42,12 h -6 m 6,8 h -6 m 6,8 h -6 m 6,8 h -6"
-       id="path4"
-       style="stroke-width:1.9;stroke-dasharray:none;stroke:#808080;stroke-opacity:1" />
-  </g>
+  <rect
+     width="19.947229"
+     height="29.920845"
+     x="6.0263853"
+     y="1.0395777"
+     rx="1.6622691"
+     id="rect2"
+     style="fill:none;stroke:#808080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     stroke-linecap="round"
+     stroke-linejoin="round"
+     d="M 6.0263851,6.0263851 H 1.0395777 M 6.0263851,12.675462 H 1.0395777 m 4.9868074,6.649076 H 1.0395777 m 4.9868074,6.649077 H 1.0395777 M 30.960422,6.0263851 h -4.986807 m 4.986807,6.6490769 h -4.986807 m 4.986807,6.649076 h -4.986807 m 4.986807,6.649077 h -4.986807"
+     id="path4"
+     style="fill:none;stroke:#808080;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
 </svg>

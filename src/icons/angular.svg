@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="100.0px"
-   height="100.0px"
-   viewBox="0 0 100.0 100.0"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="angular.svg"
@@ -13,6 +13,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs7" />
   <sodipodi:namedview
      id="namedview32486"
      pagecolor="#181825"
@@ -24,9 +26,9 @@
      inkscape:deskcolor="#313244"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="2.1089996"
-     inkscape:cx="158.84309"
-     inkscape:cy="13.750595"
+     inkscape:zoom="16.871997"
+     inkscape:cx="13.068993"
+     inkscape:cy="14.046944"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="1912"
@@ -36,7 +38,9 @@
      showborder="false">
     <inkscape:grid
        type="xygrid"
-       id="grid32609" />
+       id="grid32609"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <path
      fill="none"
@@ -44,18 +48,18 @@
      stroke-linecap="round"
      stroke-linejoin="round"
      stroke-width="5.58185"
-     d="M 50.000001,2.7909184 97.209093,14.593192 91.307957,77.14457 50.000001,97.209102 8.6920443,77.14457 2.7909073,14.594308 Z"
+     d="M 16.000002,0.99995025 31.000055,4.7499639 29.125049,24.624824 16.000002,31.000058 2.8749524,24.624824 0.9999455,4.7503185 Z"
      paint-order="fill markers stroke"
      id="path11434"
-     style="stroke-width:5;stroke-dasharray:none" />
+     style="stroke-width:2;stroke-dasharray:none" />
   <path
      fill="none"
      stroke="#c3002f"
      stroke-linecap="round"
      stroke-linejoin="round"
      stroke-width="5.58185"
-     d="M 26.395454,71.626348 50.000001,15.91944 73.604547,71.626348 M 34.515936,54.10379 h 31.261735"
+     d="M 8.4999729,22.871483 16.000002,5.1713614 23.500029,22.871483 M 11.080147,17.303926 h 9.932997"
      paint-order="fill markers stroke"
      id="path11436"
-     style="stroke-width:5;stroke-dasharray:none;stroke:#ffffff;stroke-opacity:1" />
+     style="stroke:#ffffff;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
 </svg>

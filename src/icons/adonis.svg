@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="100.0px"
-   height="100.0px"
-   viewBox="0 0 100.0 100.0"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="adonis.svg"
@@ -26,9 +26,9 @@
      inkscape:deskcolor="#313244"
      inkscape:document-units="px"
      showgrid="true"
-     inkscape:zoom="3.445"
-     inkscape:cx="5.6603774"
-     inkscape:cy="23.802612"
+     inkscape:zoom="19.487863"
+     inkscape:cx="8.0306394"
+     inkscape:cy="13.085067"
      inkscape:window-width="1920"
      inkscape:window-height="1017"
      inkscape:window-x="1912"
@@ -39,16 +39,16 @@
      showguides="false">
     <inkscape:grid
        type="xygrid"
-       id="grid32609" />
+       id="grid32609"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <path
-     d="m 12,3 c 7.2,0 9,1.8 9,9 0,7.2 -1.8,9 -9,9 C 4.8,21 3,19.2 3,12 3,4.8 4.8,3 12,3 Z"
+     d="m 16,0.92066046 c 12.000039,0 15.000048,3.00000964 15.000048,15.00004754 0,12.000039 -3.000009,15.000048 -15.000048,15.000048 -12.0000382,0 -15.00004788,-3.000009 -15.00004788,-15.000048 C 0.99995212,3.9206701 3.9999618,0.92066046 16,0.92066046 Z"
      id="path2759"
-     style="stroke-width:0.95;stroke-dasharray:none;stroke:#5a46ff;stroke-opacity:1;fill:none"
-     transform="matrix(5.2631579,0,0,5.2631579,-13.157895,-13.157895)" />
+     style="fill:none;stroke:#5a46ff;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
   <path
-     d="M 8.863,16.922 C 10,16.5 10.5,16 12,16 c 1.5,0 2,0.5 3.138,0.922 0.713,0.264 1.516,-0.102 1.778,-0.772 0.126,-0.32 0.11,-0.673 -0.044,-0.983 L 13.164,7.693 C 12.867,7.095 12.106,6.834 11.464,7.11 a 1.24,1.24 0 0 0 -0.627,0.583 l -3.709,7.474 c -0.321,0.648 -0.017,1.415 0.679,1.714 0.332,0.143 0.715,0.167 1.056,0.04 z"
+     d="M 10.771649,24.124067 C 12.666656,23.420731 13.499991,22.587395 16,22.587395 c 2.500008,0 3.333345,0.833336 5.230016,1.536672 1.188338,0.440002 2.526675,-0.169999 2.963343,-1.28667 0.21,-0.533335 0.183334,-1.12167 -0.07333,-1.638339 L 17.940007,8.7423521 C 17.445004,7.7456821 16.176668,7.3106807 15.106664,7.7706824 A 2.0666733,2.0666733 0 0 0 14.06166,8.7423521 L 7.8799742,21.199058 c -0.5350018,1.080003 -0.028332,2.358342 1.1316702,2.856676 0.553335,0.238334 1.1916696,0.278335 1.7600046,0.06668 z"
      id="path2761"
-     style="stroke-width:0.95;stroke-dasharray:none;stroke:#5a46ff;stroke-opacity:1;fill:none"
-     transform="matrix(5.2631579,0,0,5.2631579,-13.157895,-13.157895)" />
+     style="fill:none;stroke:#5a46ff;stroke-width:2;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
 </svg>

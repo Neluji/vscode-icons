@@ -41,6 +41,7 @@ export function optimizeSvg(svg: string) {
       'removeUnusedNS',
       'removeUselessDefs',
       'removeUselessStrokeAndFill',
+      'removeViewBox',
       'removeXMLProcInst',
       'sortAttrs',
       'sortDefsChildren',

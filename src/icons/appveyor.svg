@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="100.0px"
-   height="100.0px"
-   viewBox="0 0 100.0 100.0"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="appveyor.svg"
@@ -39,23 +39,25 @@
      showguides="false">
     <inkscape:grid
        type="xygrid"
-       id="grid32609" />
+       id="grid32609"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <circle
-     style="fill:none;stroke:#00b3e0;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     style="fill:none;stroke:#00b3e0;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
      id="path7902"
-     cx="50"
-     cy="50"
-     r="47.5" />
+     cx="16"
+     cy="16"
+     r="14.9625" />
   <circle
-     style="fill:none;stroke:#00b3e0;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     style="fill:none;stroke:#00b3e0;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
      id="circle7904"
-     cx="50"
-     cy="50"
-     r="23" />
+     cx="16"
+     cy="16"
+     r="7.2450004" />
   <path
-     style="fill:none;stroke:#00b3e0;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-     d="M 30.905565,37.1392 4.3526259,58.308441 M 63.042978,69.020357 43.024524,97.260874"
+     style="fill:none;stroke:#00b3e0;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     d="M 10.908905,10.81994 1.6210772,18.617159 M 21.813908,20.322326 13.693873,30.488047"
      id="path7960"
      sodipodi:nodetypes="cccc" />
 </svg>
