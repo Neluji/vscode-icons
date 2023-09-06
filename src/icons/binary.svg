@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="100.0px"
-   height="100.0px"
-   viewBox="0 0 100.0 100.0"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="binary.svg"
@@ -13,6 +13,8 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs9" />
   <sodipodi:namedview
      id="namedview32486"
      pagecolor="#181825"
@@ -36,37 +38,39 @@
      showborder="false">
     <inkscape:grid
        type="xygrid"
-       id="grid32609" />
+       id="grid32609"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <path
-     d="M 45.277868,40.555341 V 16.942674 H 40.555334 M 78.335601,83.058141 V 59.445474 h -4.722533"
+     d="M 14.504219,13.008313 V 5.5287689 H 13.00831 M 24.975579,26.47149 v -7.479543 h -1.495908"
      id="path15251"
-     style="fill:none;stroke:#ffffff;stroke-width:5;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
+     style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
   <rect
-     width="14.167601"
-     height="23.612667"
-     x="64.167999"
-     y="16.942665"
-     rx="2.3612666"
+     width="4.4877262"
+     height="7.4795432"
+     x="20.487852"
+     y="5.5287657"
+     rx="0.74795431"
      id="rect15253"
-     style="fill:none;stroke:#ffffff;stroke-width:5;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
+     style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
   <rect
-     width="14.167601"
-     height="23.612667"
-     x="40.555332"
-     y="59.445465"
-     rx="2.3612666"
+     width="4.4877262"
+     height="7.4795432"
+     x="13.008309"
+     y="18.991943"
+     rx="0.74795431"
      id="rect15255"
-     style="fill:none;stroke:#ffffff;stroke-width:5;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
+     style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
   <rect
-     width="94.444443"
-     height="94.444443"
-     x="2.7777786"
-     y="2.7777786"
+     width="29.916201"
+     height="29.916201"
+     x="1.0418997"
+     y="1.0418997"
      stroke-width="5.55556"
      paint-order="fill markers stroke"
-     rx="16.666666"
-     ry="16.666666"
+     rx="5.2793293"
+     ry="5.2793293"
      id="rect15261"
-     style="fill:none;stroke:#ffffff;stroke-width:5;stroke-dasharray:none;stroke-opacity:1;stroke-linejoin:round;stroke-linecap:round" />
+     style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
 </svg>

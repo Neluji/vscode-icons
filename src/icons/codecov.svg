@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="100.0px"
-   height="100.0px"
-   viewBox="0 0 100.0 100.0"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="codecov.svg"
@@ -14,25 +14,7 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
-     id="defs8354">
-    <linearGradient
-       id="vscodeIconsFileTypeCapacitor0"
-       x1="3.8429999"
-       x2="28.148001"
-       y1="28.15"
-       y2="3.845"
-       gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(3.571771,0,0,3.571771,-7.1535818,-7.1501778)">
-      <stop
-         offset="0"
-         stop-color="#7ecefd"
-         id="stop2" />
-      <stop
-         offset="1"
-         stop-color="#56b1fc"
-         id="stop4" />
-    </linearGradient>
-  </defs>
+     id="defs8354" />
   <sodipodi:namedview
      id="namedview32486"
      pagecolor="#181825"
@@ -57,7 +39,9 @@
      showguides="false">
     <inkscape:grid
        type="xygrid"
-       id="grid32609" />
+       id="grid32609"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <path
      fill="none"
@@ -65,7 +49,7 @@
      stroke-linecap="round"
      stroke-linejoin="round"
      stroke-width="10"
-     d="M 37.86844,54.81012 A 31.431578,31.431578 0 0 0 20.52631,49.625911 c -6.61579,0 -12.82106,1.784209 -17.89473,5.263156 a 47.368421,47.368421 0 1 1 94.73684,0 C 92.28421,51.394331 86.10527,49.625911 79.47369,49.625911 A 31.578945,31.578945 0 0 0 49.97367,92.489067"
+     d="M 12.168476,17.51826 A 9.9270709,9.9270709 0 0 0 6.6912909,15.880925 c -2.0894724,0 -4.0492899,0.563509 -5.6517128,1.662269 a 14.960422,14.960422 0 1 1 29.9208439,0 C 29.35467,16.439447 27.403168,15.880925 25.308709,15.880925 a 9.973614,9.973614 0 0 0 -9.317025,13.53752"
      id="path3769"
-     style="stroke-width:5;stroke-dasharray:none;stroke:#ff0077;stroke-opacity:1" />
+     style="stroke:#ff0077;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
 </svg>

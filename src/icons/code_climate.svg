@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="100.0px"
-   height="100.0px"
-   viewBox="0 0 100.0 100.0"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="code_climate.svg"
@@ -39,12 +39,14 @@
      showguides="false">
     <inkscape:grid
        type="xygrid"
-       id="grid32609" />
+       id="grid32609"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <path
      fill="currentColor"
-     d="M 66.93821,20.814273 49.47484,38.13828 59.86537,48.43203 66.93821,41.41339 87.03019,61.331154 97.42459,51.037405 Z M 34.04897,38.680452 2.5754041,68.880357 13.30661,79.185722 34.0451,59.267953 54.78357,79.185722 65.51477,68.880357 Z"
+     d="m 21.343607,6.7925899 -5.509283,5.4653171 3.277968,3.247435 2.231315,-2.214215 6.338547,6.283585 3.279188,-3.247435 z m -10.375781,5.6363591 -9.92917,9.527359 3.3854428,3.2511 6.5425062,-6.283587 6.542499,6.283587 3.385441,-3.2511 z"
      id="path104349"
-     style="fill:none;stroke:#ffffff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
      sodipodi:nodetypes="cccccccccccccc" />
 </svg>

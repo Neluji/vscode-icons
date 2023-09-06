@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="100.0px"
-   height="100.0px"
-   viewBox="0 0 100.0 100.0"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="changelog.svg"
@@ -39,14 +39,16 @@
      showguides="false">
     <inkscape:grid
        type="xygrid"
-       id="grid32609" />
+       id="grid32609"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <path
-     d="m 50,88.354766 c 23.61975,0 42.76726,-19.147519 42.76726,-42.767258 C 92.76726,21.967828 73.61975,2.8202485 50,2.8202485 c -23.61968,0 -42.76726,19.1475795 -42.76726,42.7672595 0,17.193725 10.14622,32.017736 24.77785,38.810942 M 50,88.354766 56.10961,79.529769 M 50,88.354766 56.10961,97.179751 M 66.24069,35.456408 50,51.697108 v -35.72959"
+     d="m 16,28.159634 c 7.488183,0 13.558529,-6.070349 13.558529,-13.558528 C 29.558529,7.1129443 23.488183,1.0425762 16,1.0425762 c -7.4881603,0 -13.5585289,6.0703681 -13.5585289,13.5585298 0,5.450936 3.216662,10.150601 7.8553359,12.304255 M 16,28.159634 17.936934,25.36184 M 16,28.159634 l 1.936934,2.79779 M 21.148796,11.389237 16,16.538036 V 5.2106626"
      stroke="#0ea5e9"
      stroke-width="4.90345"
      stroke-linecap="round"
      stroke-linejoin="round"
      id="path81040"
-     style="fill:none;stroke:#0ea5e9;stroke-width:5;stroke-dasharray:none;stroke-opacity:1" />
+     style="fill:none;stroke:#0ea5e9;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
 </svg>
