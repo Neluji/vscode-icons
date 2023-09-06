@@ -14,7 +14,7 @@ const PREVIEWS = resolve(join('assets', 'previews'))
 function generateHtml(files: string[], folders: string[], flavor: keyof Variants<any>) {
   const tags = (iconfiles: string[]) => iconfiles.map(icon => `
     <div style="display: flex; align-items: center;">
-      <img style="width: 25px; margin: 2px;" src="../../themes/${flavor}/icons/${icon}" />
+      <img style="width: 24px; margin: 2px;" src="../../themes/${flavor}/icons/${icon}" />
       <span style="color: ${variants[flavor].text.hex}; margin-left: 10px; text-transform: capitalize;">
         ${splitByCase(filename(icon), ['_']).join(' ')}
       </span>
@@ -42,7 +42,7 @@ function generateHtml(files: string[], folders: string[], flavor: keyof Variants
 
 function generateIconOnlyHtml(files: string[], folders: string[], flavor: keyof Variants<any>) {
   const tags = (icons: string[]) => icons.map(icon =>
-    `<img style="width: 25px; margin: 2px;" src="../../themes/${flavor}/icons/${icon}" />`,
+    `<img style="width: 24px; margin: 2px;" src="../../themes/${flavor}/icons/${icon}" />`,
   ).reduce((a, c) => a + c, '')
 
   return `
