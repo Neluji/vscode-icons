@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="100.0px"
-   height="100.0px"
-   viewBox="0 0 100.0 100.0"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="database.svg"
@@ -38,17 +38,19 @@
      showborder="false">
     <inkscape:grid
        type="xygrid"
-       id="grid32609" />
+       id="grid32609"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <ellipse
-     cx="49.995506"
-     cy="19.668137"
-     rx="41.628036"
-     ry="16.858406"
+     cx="15.998575"
+     cy="6.385406"
+     rx="13.194567"
+     ry="5.3434987"
      id="ellipse29670"
-     style="fill:none;stroke:#ffca28;stroke-width:5;stroke-dasharray:none;stroke-opacity:1" />
+     style="fill:none;stroke:#ffca28;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
   <path
-     d="m 91.62242,49.617536 a 41.628038,16.858406 0 0 1 -20.813457,14.598859 41.628038,16.858406 0 0 1 -41.626915,0 A 41.628038,16.858406 0 0 1 8.367467,49.61866 M 91.62242,80.319745 a 41.628038,16.858406 0 0 1 -20.813457,14.599985 41.628038,16.858406 0 0 1 -41.626915,0 A 41.628038,16.858406 0 0 1 8.367467,80.319745 M 8.377577,20.079371 V 80.319745 M 91.632533,20.045663 v 60.240375"
+     d="m 29.192787,15.878271 a 13.194567,5.3434988 0 0 1 -6.597105,4.627305 13.194567,5.3434988 0 0 1 -13.1942123,0 13.194567,5.3434988 0 0 1 -6.5974613,-4.626948 M 29.192787,25.60975 a 13.194567,5.3434988 0 0 1 -6.597105,4.627662 13.194567,5.3434988 0 0 1 -13.1942123,0 13.194567,5.3434988 0 0 1 -6.5974613,-4.627662 m 0.0032,-19.0939979 V 25.60975 M 29.195992,6.5050679 V 25.599066"
      id="path29672"
-     style="fill:none;stroke:#ffca28;stroke-width:5;stroke-dasharray:none;stroke-opacity:1" />
+     style="fill:none;stroke:#ffca28;stroke-width:2;stroke-dasharray:none;stroke-opacity:1" />
 </svg>

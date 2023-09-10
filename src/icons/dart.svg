@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="100.0px"
-   height="100.0px"
-   viewBox="0 0 100.0 100.0"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="dart.svg"
@@ -38,14 +38,16 @@
      showborder="false">
     <inkscape:grid
        type="xygrid"
-       id="grid32609" />
+       id="grid32609"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <path
-     d="M 42.517091,97.158601 H 78.574897 V 78.574586 H 97.157773 V 42.517916 L 60.19429,5.5544327 C 58.093163,3.4533045 54.234088,2.0544466 51.556826,3.3453504 L 19.01378,19.014604 3.3456625,51.557652 c -1.2897674,2.678398 0.1079541,6.536336 2.2090814,8.6386 z"
+     d="m 13.626942,30.95764 h 11.436487 v -5.894308 h 5.893947 V 13.627206 L 19.233635,1.9034646 C 18.567219,1.2370479 17.343232,0.79337085 16.494083,1.202808 L 6.1723764,6.1726391 1.2029056,16.494347 c -0.40907661,0.84951 0.03424,2.073135 0.7006564,2.739912 z"
      id="path27682"
-     style="fill:none;stroke:#40c4ff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+     style="fill:none;stroke:#40c4ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
   <path
-     d="M 19.214915,73.856423 19.01378,19.015741 73.484008,19.587329 M 19.01378,19.014604 78.574897,78.575722"
+     d="M 6.2361706,23.566868 6.1723764,6.1729997 23.448747,6.3542908 M 6.1723764,6.1726391 25.063429,25.063692"
      id="path27684"
-     style="fill:none;stroke:#40c4ff;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+     style="fill:none;stroke:#40c4ff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
 </svg>

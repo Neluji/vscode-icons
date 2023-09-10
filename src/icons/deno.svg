@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="100.0px"
-   height="100.0px"
-   viewBox="0 0 100.0 100.0"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="deno.svg"
@@ -39,23 +39,23 @@
      showguides="false">
     <inkscape:grid
        type="xygrid"
-       id="grid32609" />
+       id="grid32609"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <path
-     d="M 3,12 A 9,9 0 1 0 21,12 9,9 0 1 0 3,12"
+     d="M 1.0395716,16 A 14.960428,14.960428 0 1 0 30.960428,16 14.960428,14.960428 0 1 0 1.0395716,16"
      id="path1665"
-     style="stroke-width:0.94999998;stroke-dasharray:none;stroke:#ffffff;stroke-opacity:1;fill:none;stroke-linejoin:round;stroke-linecap:round"
-     transform="matrix(5.263158,0,0,5.263158,-13.157896,-13.157896)" />
+     style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
   <path
-     d="M 13.47,20.882 12,15 C 9.351,14.912 7,13.376 7,11.5 7,9.567 9.239,8 12,8 c 2.761,0 4,1 5,3 0.024,0.048 0.69,2.215 2,6.5"
+     d="M 18.443536,30.76428 15.999999,20.986809 C 11.596647,20.84053 7.6886508,18.287283 7.6886508,15.168865 c 0,-3.213167 3.7218222,-5.8179442 8.3113482,-5.8179442 4.589527,0 6.64908,1.6622702 8.311349,4.9868092 0.0399,0.07979 1.146967,3.681928 3.32454,10.804754"
      id="path1667"
-     style="stroke-width:0.95;stroke-dasharray:none;stroke:#ffffff;stroke-opacity:1;fill:none;stroke-linejoin:round;stroke-linecap:round"
-     sodipodi:nodetypes="ccsssc"
-     transform="matrix(5.263158,0,0,5.263158,-13.157896,-13.157896)" />
+     style="fill:none;stroke:#ffffff;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     sodipodi:nodetypes="ccsssc" />
   <circle
-     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     style="fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
      id="path6692"
-     cx="54.758686"
-     cy="42.426407"
-     r="2.5" />
+     cx="17.502941"
+     cy="13.608022"
+     r="0.78957814" />
 </svg>

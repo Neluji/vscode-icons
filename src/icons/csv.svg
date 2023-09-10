@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="100.0px"
-   height="100.0px"
-   viewBox="0 0 100.0 100.0"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="csv.svg"
@@ -38,18 +38,20 @@
      showborder="false">
     <inkscape:grid
        type="xygrid"
-       id="grid32609" />
+       id="grid32609"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <path
      fill-rule="evenodd"
      clip-rule="evenodd"
-     d="m 2.5678889,14.016944 c 0,-3.974572 3.5149842,-7.196641 7.8508541,-7.196641 h 31.403414 l 8.505067,7.850853 h 39.254034 c 4.336026,0 7.850853,3.222069 7.850853,7.196644 l -0.653976,64.115017 c 0,3.97489 -3.514827,7.19688 -7.850852,7.19688 h -78.50854 c -4.3358699,0 -7.8508541,-3.22199 -7.8508541,-7.19688 z"
+     d="m 1.0385708,4.6499264 c 0,-1.2536924 1.1087254,-2.2700241 2.4763814,-2.2700241 h 9.9055248 l 2.682739,2.4763811 h 12.381832 c 1.367705,0 2.476381,1.0163317 2.476381,2.270025 L 30.755147,27.349998 c 0,1.253793 -1.108676,2.2701 -2.476381,2.2701 H 3.5149522 c -1.367656,0 -2.4763814,-1.016307 -2.4763814,-2.2701 z"
      fill="#67cb65"
      id="path32838"
-     style="fill:none;stroke:#20744a;stroke-width:5;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#20744a;stroke-width:2;stroke-dasharray:none;stroke-opacity:1"
      sodipodi:nodetypes="ssccsccssss" />
   <path
      id="path4959"
-     style="fill:none;stroke:#20744a;stroke-width:5;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
-     d="M 60.162496,41.987498 V 75.862497 M 39.837497,41.987498 V 75.862497 M 80.389403,41.987498 V 75.862497 M 19.512498,41.987498 v 33.874999 m 0,0 H 80.487502 M 19.512498,58.924998 h 60.975004 m -60.975004,-16.9375 h 60.975004" />
+     style="fill:none;stroke:#20744a;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+     d="M 19.205539,13.472631 V 24.157763 M 12.794459,13.472631 V 24.157763 M 25.585677,13.472631 V 24.157763 M 6.3833797,13.472631 v 10.685132 m 0,0 H 25.61662 M 6.3833797,18.815197 H 25.61662 M 6.3833797,13.472631 H 25.61662" />
 </svg>

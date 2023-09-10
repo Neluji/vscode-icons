@@ -2,9 +2,9 @@
 <!-- Created with Inkscape (http://www.inkscape.org/) -->
 
 <svg
-   width="100.0px"
-   height="100.0px"
-   viewBox="0 0 100.0 100.0"
+   width="32"
+   height="32"
+   viewBox="0 0 32 32"
    version="1.1"
    id="SVGRoot"
    sodipodi:docname="cuda.svg"
@@ -38,16 +38,18 @@
      showborder="false">
     <inkscape:grid
        type="xygrid"
-       id="grid32609" />
+       id="grid32609"
+       originx="0"
+       originy="0" />
   </sodipodi:namedview>
   <path
-     d="M 84.580896,52.682196 C 60.428254,73.810721 21.69896,84.763356 2.4954803,45.806861 28.161304,20.049262 54.789652,24.953659 72.894066,44.844337 53.873016,64.047818 33.615235,73.076519 19.683255,47.045833 c 0,0 19.385913,-17.050113 34.236768,-2.200376 0,0 -2.671182,3.622938 -5.521067,4.62878"
+     d="M 26.892979,16.844891 C 19.284897,23.500377 7.0851705,26.950457 1.0360746,14.679161 9.1208088,6.5655178 17.508738,8.1104028 23.211628,14.375967 c -6.228709,5.663842 -11.987577,7.441026 -16.7614046,0.69347 0,0 6.4029116,-4.689183 11.1105656,-0.633848 0,0 -0.693249,0.755972 -1.590962,1.072811"
      id="path27520"
-     style="fill:none;stroke:#23d96c;stroke-width:4.99107;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#23d96c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
      sodipodi:nodetypes="cccccc" />
   <path
-     d="m 37.144119,27.284735 0,-7.464913 H 97.504467 V 80.180177 H 37.144119 l 0,-7.336723"
+     d="M 11.950395,8.8446918 V 6.4932448 H 30.963904 V 25.506755 H 11.950395 v -2.311068"
      id="path27522"
-     style="fill:none;stroke:#23d96c;stroke-width:4.99107;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
+     style="fill:none;stroke:#23d96c;stroke-width:2;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
      sodipodi:nodetypes="cccccc" />
 </svg>
